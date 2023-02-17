@@ -105,8 +105,7 @@ width:160px;
     position: absolute;
     top: ${(props)=>props.top} ;
     right: ${(props)=>props.right} ;
-    // top: 190px;
-    // right:100px;
+   
     border-radius:30px;
     border:white solid 1 px;
 `
@@ -116,8 +115,7 @@ font-size: 11px;
 position: absolute;
 top: ${(props)=>props.top} ;
 right: ${(props)=>props.right} ;
-// top: 203px;
-// right:92px;
+
 width:150px;
 
 `
@@ -144,14 +142,7 @@ export const Earrow=styled.img`
     top:7px;
 `
 
-// export const Ecircle=styled.img`
-//      width: 50px;
-//     height: 50px;
-//     border-radius:50px;
-//     background-color:rgb(44, 135, 225);
-//     position: absolute;
-//    left: 451px;
-// `
+
 
 export const Owner=styled.div`
      position: absolute;

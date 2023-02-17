@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Bottombardiv=styled.div`
      height: 330px;
-    /* background-color: blueviolet; */
+   
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -11,8 +11,7 @@ export const Bottombardiv=styled.div`
 
 export const Leftpart=styled.div`
      height: 300px;
-    /* width:600px; */
-    /* background-color: rgb(90, 125, 220); */
+    
     display: flex;
     justify-content:center;
     align-items: center;
@@ -35,8 +34,7 @@ export const Leftpartlia=styled.a`
 
 export const Rightpart=styled.ul`
     height: 250px;
-    /* width:300px; */
-    /* background-color: rgb(201, 72, 17); */
+    
     display: flex;
     flex-direction: column;
     justify-content: flex-start;

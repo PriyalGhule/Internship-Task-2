@@ -62,7 +62,7 @@ max-width: 100vw;
     justify-content:space-between;
 
     @media(max-width: 780px) {
-        /* justify-content: space-between; */
+       
         align-items: flex-start;
         width:600px;
         flex-direction: column;

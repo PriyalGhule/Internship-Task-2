@@ -51,8 +51,7 @@ export const Innercircle=styled.img`
 height: 175px;
     width: 175px;
     position:absolute;
-    /* bottom:430px;
-left:50px; */
+    
   top:753px;
   right:290px;
   
@@ -83,8 +82,7 @@ height: 100px;
     position: relative;
     top:80px;
     right:65px;
-    // top: ${(props)=>props.top};
-    // right:${(props)=>props.right};
+    
     border-radius: 20px;
 `
 
@@ -103,7 +101,7 @@ height: 150px;
     width:300px;
     
     position: absolute;
-    // top:850px;
+   
     top: ${(props)=>props.top};
     left:${(props)=>props.left};
 
@@ -130,8 +128,7 @@ height: 120px;
     width:180px;
     background-color: rgb(29, 51, 64);
     position: absolute;
-    // top:1065px;
-    // right:100px;
+    
     top: ${(props)=>props.top};
     right:${(props)=>props.right};
     border-radius: 30px;
@@ -141,8 +138,7 @@ height: 80px;
     width:80px;
     background-color: #2F3842;
     position: absolute;
-    // top:1083px;
-    // right: 150px;
+    
     top: ${(props)=>props.top};
     right:${(props)=>props.right};
     border-radius: 80px;
@@ -163,8 +159,7 @@ export const Textbox3= styled.div`
 height: 120px;
 width:300px;
 position: absolute;
-// top:1050px;
-// right:305px;
+
 top:${(props)=>props.top};
 right:${(props)=>props.right};
 text-align: right;
@@ -204,8 +199,7 @@ height: 120px;
 width:180px;
 background-color: white;
 position: absolute;
-/* top:1268px;
-left:95px; */
+
 top: ${(props)=>props.top};
     left:${(props)=>props.left};
 border-radius: 30px;
@@ -217,8 +211,7 @@ height: 80px;
     width:80px;
     background-color: #2F3842;
     position:absolute;
-    // top:1285px;
-    // left: 140px;
+    
     top: ${(props)=>props.top};
     left:${(props)=>props.left};
     border-radius: 80px;
@@ -238,7 +231,7 @@ height: 650px;
 export const Contactnums=styled.div`
 height: 250px;
     width: 300px;
-    /* background-color: rebeccapurple; */
+   
     display: flex;
     flex-direction: column;
     margin-left: 50px;
@@ -252,7 +245,7 @@ height: 250px;
 export const Inputdiv=styled.div`
 height: 250px;
     width: 300px;
-  /* background-color: rgb(8, 114, 75); */
+  
   margin-left: 450px;
   margin-top: 20px;
   list-style: none;

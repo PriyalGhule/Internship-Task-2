@@ -22,7 +22,7 @@ export default function Bottombar() {
       <Bottombardiv>
           <Leftpart>
 
-              {/* enter three columns here */}
+              
               <Leftpartul >
               <Leftpartli><Leftpartlia href="/">Fingertips</Leftpartlia></Leftpartli><br/>
                 {
@@ -57,7 +57,7 @@ export default function Bottombar() {
           </Leftpart>
 
           <Rightpart>
-              {/* enter right rows here */}
+              
               
                   <Rightpartli ><Discordblue src={discordblue} alt="discordblue" /> <Rightpartlia  href="/">Join us on Discord</Rightpartlia></Rightpartli>
                   <Rightpartli><Mobile src={mobile} alt="mobile" /><Rightpartlia href='/'>  (239) 555-0193</Rightpartlia></Rightpartli>

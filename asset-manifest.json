@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Internship-Task-2/static/css/main.073c9b0a.css",
+    "main.js": "/Internship-Task-2/static/js/main.d268f395.js",
+    "static/js/787.03a0904c.chunk.js": "/Internship-Task-2/static/js/787.03a0904c.chunk.js",
+    "static/media/circlegradient.png": "/Internship-Task-2/static/media/circlegradient.9732c6ac1345af573853.png",
+    "static/media/Gradient.png": "/Internship-Task-2/static/media/Gradient.e7616866ed473f0998eb.png",
+    "static/media/gorilla.png": "/Internship-Task-2/static/media/gorilla.6435a8eb384b8d2f327d.png",
+    "static/media/background.png": "/Internship-Task-2/static/media/background.11404599975dd6beac9a.png",
+    "static/media/outer-circle.png": "/Internship-Task-2/static/media/outer-circle.b9b93b9c09a2fc42a1bc.png",
+    "static/media/inner-circle.png": "/Internship-Task-2/static/media/inner-circle.2b78de46b23bbb07c9f9.png",
+    "static/media/coinstack1.png": "/Internship-Task-2/static/media/coinstack1.3d57386450950c6a41e3.png",
+    "static/media/singlecoin.png": "/Internship-Task-2/static/media/singlecoin.cb66ba9a31f7a4b85ef0.png",
+    "static/media/gbox4.png": "/Internship-Task-2/static/media/gbox4.c29718ddf4e5e55cd979.png",
+    "static/media/gbox3.png": "/Internship-Task-2/static/media/gbox3.2f96d31ae17345f66e81.png",
+    "static/media/gbox1.png": "/Internship-Task-2/static/media/gbox1.070bd7dd62bce9065f18.png",
+    "static/media/inner-icon.png": "/Internship-Task-2/static/media/inner-icon.bbbf48c80441ff83640b.png",
+    "static/media/gbox2.png": "/Internship-Task-2/static/media/gbox2.ab381ae18e608245f542.png",
+    "static/media/coinstack2.png": "/Internship-Task-2/static/media/coinstack2.2d4c9e38a95873149917.png",
+    "static/media/logo.svg": "/Internship-Task-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Internship-Task-2/index.html",
+    "main.073c9b0a.css.map": "/Internship-Task-2/static/css/main.073c9b0a.css.map",
+    "main.d268f395.js.map": "/Internship-Task-2/static/js/main.d268f395.js.map",
+    "787.03a0904c.chunk.js.map": "/Internship-Task-2/static/js/787.03a0904c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d268f395.js"
+  ]
+}
